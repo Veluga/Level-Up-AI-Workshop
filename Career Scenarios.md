@@ -175,3 +175,15 @@
 * Develop a strategy for execution during the summer breaks to increase your chances of being employed in a job outside of your own discipline
 * What issues will you face (weakest skills)?
 * What skills can you bring to the table that could prove advantageous to the new discipline you chose (strongest skills)?
+
+\pagebreak
+
+# Customer service experience
+* You own a deliver business and are considering automating your customer service phone line using voice recognition technology
+* You will save much on employment costs, along with now having a 24 hour phone line
+* However, you are sceptical about how effective this approach will be and its effect on customer satisfaction.
+
+## Questions
+* Would AI be able to replace customer service? To what extent?
+* How will you go about determining the most effective solution?
+* What advantageous elements of customer service does human interaction offer that are irreplaceable by automation?
