@@ -10,6 +10,8 @@
   * What issues will you face (weakest skills)?
   * What skills can you bring to the table that could prove advantageous to the new discipline you chose (strongest skills)?
 
+\pagebreak
+
 # The concerned family member
 * Your daughter/son/brother/sister is very exicted about pursuing a career in [Insert job at risk of computerisation]
 * You are aware that this field of work is at risk of computerisation
@@ -18,6 +20,8 @@
   * Come up with ideas to have a constructive discussion with your family member regarding their future.
   * If you were in their shoes, what would you want people to tell you?
   * Highlight alternative career paths that you believe to be well suited for them 
+
+\pagebreak
 
 # The best boss ever
 * You are a manager of a small team in a company that is undergoing massive restructuring and automation
@@ -31,6 +35,8 @@
   * What can be done at work, what do they have to figure out on their own?
   * Prepare a month by month strategy/plan
 
+\pagebreak
+
 # Save your city
 * You are the Lord Provost of Aberdeen City
 * A [large oil company] has recently presented a prototype for a fully autonomous drilling platform that they claim will be ready for production within the next five years
@@ -42,6 +48,8 @@
   * What facilities and resources (including personnel) do you need to conduct such a mass retraining?
   * What is your backup plan for people who fail to find jobs even after retraining?
 
+\pagebreak
+
 # This course has been cancelled
 * You are the head of the department for your discipline at a University.
 * Due to a trend of increased computerisation of certain tasks in the discipline, you face the challenge of updating the degree curriculum to adapt to the new circumstances.
@@ -51,6 +59,8 @@
   * Replace the elements which are at risk of computerisation with more relevant substitutes.
   * Find arguments for why this trend of computerisation is good/bad for students in your discipline.
   * Would you enjoy the new curriculum more than your current one? Why/Why not?
+
+\pagebreak
 
 # Help me find a job again
 * You are a volunteer at a charity organisation that helps people who have become unemployed get back on their feet with a new skill set.
@@ -62,12 +72,16 @@
   * In case there are too many applicants for help with your charity, how do you choose applicants?
   * Think of general advice that could be given to any person to future-proof their skill set against automation.
 
+\pagebreak
+
 # Automating yourself
 * You are an accountant for a large company who employs many other accountants who work with you. A large part of your role is to analyse accounting information and categorise them based on a number of factors.
 * A friend of yours working in the same field has shown you a piece of software which can be used to automate a large part of your and your co-workers jobs.
 * Questions:
     * Do you show it to your boss which could risk making you and your co-workers redundant?
     * Do you secretly use the software to make your job easier which wont put your job at risk or your co-workers?
+
+\pagebreak
 
 # Are you replicable
 * An important part about today's workshop is to identify whether you are in danger of being automated and to think about what you can do if you are ever replaced.
@@ -76,6 +90,8 @@ Questions:
   * If it could be, do you have a backup option?
   * If you believe your job can't be replaced why do you think you are safe from future automation?
 
+\pagebreak
+
 # Evolving with technology
 * As technology keeps evolving you will be required to learn new skills and master new technologies.
 * Unfortunately, the technologies which are used in your current company may not be used in another.
@@ -83,6 +99,8 @@ Questions:
   * Are you willing to spend your own time to learn what would be needed of you if you ever decided to switch roles?
   * If you don't would that be limiting your options of future employment?
   * Can you think of any technologies which you don't know but could be useful in your future career?
+
+\pagebreak
 
 # Is automation ethical?
 * A company has produced a piece of technology which can automate many tasks, saving millions of pounds for many companies
