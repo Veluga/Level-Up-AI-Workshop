@@ -5,7 +5,7 @@
 * A friend suggested you have a look at https://willrobotstakemyjob.com/ which is based on a highly cited study by Oxford University academics (https://www.oxfordmartin.ox.ac.uk/ downloads/academic/The_Future_of_Employment.pdf)
 * Unfortunately, your dream job is one which is at risk of computerisation
 * As you are mostly done with your degree, you want to finish it
-* However, to better prepare for the future, you want to use this and next year's summer break to diversify your into other areas of employment
+* However, to better prepare for the future, you want to use this and next year's summer break to diversify into other areas of employment
 * Questions:
   * What alternative career path could be at least somewhat interesting to you?
   * Develop a strategy for execution during the summer breaks to increase your chances of being employed in a job outside of your own discipline
@@ -15,19 +15,19 @@
 \pagebreak
 
 # The concerned family member
-* Your daughter/son/brother/sister is very exicted about pursuing a career in [Insert job at risk of computerisation]
+* A family member is very excited about pursuing a career as a nuclear technician
 * You are aware that this field of work is at risk of computerisation
-* As they are family and you love them, you're facing a issue: How do you balance you wanting them to pursue what they love and your concerns about their future?
+* As they are family and you love them, you're facing an issue: How do you balance you wanting them to pursue what they love and your concerns about their future?
 * Questions:
   * Come up with ideas to have a constructive discussion with your family member regarding their future.
   * If you were in their shoes, what would you want people to tell you?
-  * Highlight alternative career paths that you believe to be well suited for them 
+  * Highlight alternative career paths that you believe to be well suited for them
 
 \pagebreak
 
 # The best boss ever
 * You are a manager of a small team in a company that is undergoing massive restructuring and automation
-* You've been informed by your own boss that while there will be a new position for you, the rest of your team will be replaced by a machines/algorithms within the next nine months
+* You've been informed by your own boss that while there will be a new position for you, the rest of your team will be replaced by machines within the next nine months
 * It is your job to break the news to them
 * You are aware that the situation at other companies is very similar - it is unlikely that they will find the same job elsewhere
 * You like the people you're working with and really do care for their future
@@ -41,12 +41,12 @@
 
 # Save your city
 * You are the Lord Provost of Aberdeen City
-* A [large oil company] has recently presented a prototype for a fully autonomous drilling platform that they claim will be ready for production within the next five years
-* Your adivsors estimate that deployment of these facilities will put around 7,000 Aberdonians out of work
+* A large oil company has recently presented a prototype for a fully autonomous drilling platform that they claim will be ready for production within the next five years
+* Your advisers estimate that deployment of these facilities will put around 7,000 Aberdonians out of work
 * The Scottish government has promised to assist in efforts to retrain the O&G workers if you come up with a reasonable plan
 * Questions:
   * Estimate how much money is needed per person to retrain them.
-  * What career paths provide for sustainable (don't retrain them to do something that will become obsolote five years after) alternatives?
+  * What career paths provide for sustainable (don't retrain them to do something that will become obsolete five years after) alternatives?
   * What facilities and resources (including personnel) do you need to conduct such a mass retraining?
   * What is your backup plan for people who fail to find jobs even after retraining?
 
@@ -82,12 +82,14 @@
 * Questions:
     * Do you show it to your boss which could risk making you and your co-workers redundant?
     * Do you secretly use the software to make your job easier which wont put your job at risk or your co-workers?
+    * Do you pretend you never heard of it and continue working the way you have?
+    * Which option is the most ethical?
 
 \pagebreak
 
 # Are you replaceable
 * An important part about today's workshop is to identify whether you are in danger of being automated and to think about what you can do if you are ever replaced.
-Questions:
+* Questions:
   * With this in mind, do you believe your current career path could be replaced by a machine?
   * If it could be, do you have a backup option?
   * If you believe your job can't be replaced why do you think you are safe from future automation?
@@ -97,17 +99,17 @@ Questions:
 # Evolving with technology
 * As technology keeps evolving you will be required to learn new skills and master new technologies.
 * Unfortunately, the technologies which are used in your current company may not be used in another.
-Questions:
-  * Are you willing to spend your own time to learn what would be needed of you if you ever decided to switch roles?
-  * If you don't would that be limiting your options of future employment?
+* Questions:
+  * Are you willing to spend your own time to learn what would be needed of you if you ever decided to change company?
+  * If you don't dedicate that time to self improvement would that be limiting your options of future employment?
   * Can you think of any technologies which you don't know but could be useful in your future career?
 
 \pagebreak
 
 # Is automation ethical?
 * A company has produced a piece of technology which can automate many tasks, saving millions of pounds for many companies
-* However, it would lead to many people losing their jobs due to the automation which this technology creates. 
-Questions:
+* However, it would lead to many people losing their jobs due to the automation which this technology creates.
+* Questions:
   * Is it moral for the company to release this technology or should they abandon the project?
   * What would you do in the place of the company?
   * What would you do if you employed people who could now be replaced with this technology?
