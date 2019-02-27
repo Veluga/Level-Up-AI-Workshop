@@ -42,3 +42,23 @@
   * What facilities and resources (including personnel) do you need to conduct such a mass retraining?
   * What is your backup plan for people who fail to find jobs even after retraining?
 
+# This course has been cancelled
+* You are the head of the department for your discipline at a University.
+* Due to a trend of increased computerisation of certain tasks in the discipline, you face the challenge of updating the degree curriculum to adapt to the new circumstances.
+* Questions:
+    * What elements of your current degree curriculum are most prone to being computerised? Which of these are specific to your discipline, which affect more than your discipline?
+    * Design new courses that embrace computerisation in a creative way.
+    * Replace the elements which are at risk of computerisation with more relevant substitutes.
+    * Find arguments for why this trend of computerisation is good/bad for students in your discipline.
+    * Would you enjoy the new curriculum more than your current one? Why/Why not?
+
+# Help me find a job again
+* You are a volunteer at a charity organisation that helps people who have become unemployed get back on their feet with a new skill set.
+* You are responsible for developing a plan with them that will increase their chances of becoming employed again.
+* Questions:
+    * Develop a general skill set that can be built within one year.
+    * How would this skill set change if the person you're helping is a displaced oil rig worker? How would it change if it was a taxi driver?
+    * Think about how your plan for them would change if the government offers up to £2.000 for retraining per person. How would it change if this was £10.000?
+    * In case there are too many applicants for help with your charity, how do you choose applicants?
+    * Think of general advice that could be given to any person to future-proof their skill set against automation.
+
