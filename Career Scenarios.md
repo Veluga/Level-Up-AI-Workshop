@@ -1,3 +1,5 @@
+\pagenumbering{gobble}
+
 # The Lookahead
 * You are a third year student at university
 * A friend suggested you have a look at https://willrobotstakemyjob.com/ which is based on a highly cited study by Oxford University academics (https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
@@ -83,7 +85,7 @@
 
 \pagebreak
 
-# Are you replicable
+# Are you replaceable
 * An important part about today's workshop is to identify whether you are in danger of being automated and to think about what you can do if you are ever replaced.
 Questions:
   * With this in mind, do you believe your current career path could be replaced by a machine?
