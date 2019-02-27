@@ -123,3 +123,54 @@
 * Is it moral for the company to release this technology or should they abandon the project?
 * What would you do in the place of the company?
 * What would you do if you employed people who could now be replaced with this technology?
+
+\pagebreak
+
+# The worst boss ever
+* Your boss was just replaced by a robot and the Overlords are telling you that your position is fine, you will not be replaced
+* Only the monitoring of employee performance will be more efficient. You're not quite so sure of the change.
+
+## Questions
+* How will you react?
+* Is this a change for the better or the worse?
+* Will the relationship to your boss change?
+
+\pagebreak
+
+# What could go wrong?
+* Imagine you were the designer for general purpose AI systems for a large company.
+* You are drafting a risk assessment for three different systems the company is going to build.
+
+## Questions
+* What kind of challenging situations can these machines face in day-to-day life?
+* How would you design these machines to be as safe as possible to humans in these situations?
+  1. self-driving car
+  2. personal home assistant
+  3. law enforcement robot
+
+\pagebreak
+
+# Amazon Prime Instant
+* Amazon has announced a new super-fast drone delivery for all groceries in your country
+* It ships anything you need from a grocery store in a maximum of 45 minutes, and is even cheaper than going to a store yourself
+* There is a rumour that this service has caused hundreds of large and small grocery stores to go bankrupt in other countries
+
+## Questions
+* Will you continue doing groceries the old way or adopt the new system with joy?
+
+\pagebreak
+
+# What's going to happen next?
+
+* Look at the degree you are currently pursuing and consider the following technologies:
+  * Automation
+  * Big Data
+  * Artificial Intelligence
+  * Robotics
+
+## Questions
+* How would those technologies change the future employability for you and other people pursuing that degree?
+* Can you identify common changes across all disciplines?
+* Are there some changes that are limited to only one discipline?
+* Try to identify a few both positive and negative effects for all of the technologies on your career path.
+* Are there ways to mitigate these effects?
