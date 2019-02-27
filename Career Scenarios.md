@@ -46,19 +46,48 @@
 * You are the head of the department for your discipline at a University.
 * Due to a trend of increased computerisation of certain tasks in the discipline, you face the challenge of updating the degree curriculum to adapt to the new circumstances.
 * Questions:
-    * What elements of your current degree curriculum are most prone to being computerised? Which of these are specific to your discipline, which affect more than your discipline?
-    * Design new courses that embrace computerisation in a creative way.
-    * Replace the elements which are at risk of computerisation with more relevant substitutes.
-    * Find arguments for why this trend of computerisation is good/bad for students in your discipline.
-    * Would you enjoy the new curriculum more than your current one? Why/Why not?
+  * What elements of your current degree curriculum are most prone to being computerised? Which of these are specific to your discipline, which affect more than your discipline?
+  * Design new courses that embrace computerisation in a creative way.
+  * Replace the elements which are at risk of computerisation with more relevant substitutes.
+  * Find arguments for why this trend of computerisation is good/bad for students in your discipline.
+  * Would you enjoy the new curriculum more than your current one? Why/Why not?
 
 # Help me find a job again
 * You are a volunteer at a charity organisation that helps people who have become unemployed get back on their feet with a new skill set.
 * You are responsible for developing a plan with them that will increase their chances of becoming employed again.
 * Questions:
-    * Develop a general skill set that can be built within one year.
-    * How would this skill set change if the person you're helping is a displaced oil rig worker? How would it change if it was a taxi driver?
-    * Think about how your plan for them would change if the government offers up to £2.000 for retraining per person. How would it change if this was £10.000?
-    * In case there are too many applicants for help with your charity, how do you choose applicants?
-    * Think of general advice that could be given to any person to future-proof their skill set against automation.
+  * Develop a general skill set that can be built within one year.
+  * How would this skill set change if the person you're helping is a displaced oil rig worker? How would it change if it was a taxi driver?
+  * Think about how your plan for them would change if the government offers up to £2.000 for retraining per person. How would it change if this was £10.000?
+  * In case there are too many applicants for help with your charity, how do you choose applicants?
+  * Think of general advice that could be given to any person to future-proof their skill set against automation.
 
+# Automating yourself
+* You are an accountant for a large company who employs many other accountants who work with you. A large part of your role is to analyse accounting information and categorise them based on a number of factors.
+* A friend of yours working in the same field has shown you a piece of software which can be used to automate a large part of your and your co-workers jobs.
+* Questions:
+    * Do you show it to your boss which could risk making you and your co-workers redundant?
+    * Do you secretly use the software to make your job easier which wont put your job at risk or your co-workers?
+
+# Are you replicable
+* An important part about today's workshop is to identify whether you are in danger of being automated and to think about what you can do if you are ever replaced.
+Questions:
+  * With this in mind, do you believe your current career path could be replaced by a machine?
+  * If it could be, do you have a backup option?
+  * If you believe your job can't be replaced why do you think you are safe from future automation?
+
+# Evolving with technology
+* As technology keeps evolving you will be required to learn new skills and master new technologies.
+* Unfortunately, the technologies which are used in your current company may not be used in another.
+Questions:
+  * Are you willing to spend your own time to learn what would be needed of you if you ever decided to switch roles?
+  * If you don't would that be limiting your options of future employment?
+  * Can you think of any technologies which you don't know but could be useful in your future career?
+
+# Is automation ethical?
+* A company has produced a piece of technology which can automate many tasks, saving millions of pounds for many companies
+* However, it would lead to many people losing their jobs due to the automation which this technology creates. 
+Questions:
+  * Is it moral for the company to release this technology or should they abandon the project?
+  * What would you do in the place of the company?
+  * What would you do if you employed people who could now be replaced with this technology?
